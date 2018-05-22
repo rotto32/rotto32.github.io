@@ -1,0 +1,75 @@
+*{
+  font-family: 'IM Fell English SC', serif;
+  background-color: hsl(287°, 71%, 29%)
+
+}
+
+a{
+  text-align: center;
+
+}
+
+#alltext{
+  background-color: #000;
+}
+
+#faq {
+  font-size: 30px;
+  padding: 0px 10px 10px 10px;
+  margin-top: 10px;
+  background-color: purple;
+}
+
+#banner{
+  height: 400px;
+
+  background-image: url(https://78.media.tumblr.com/2f56395caa284982f834bcf7a42491bc/tumblr_n1joalxJOK1tu8a0wo1_r2_1280.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+#allcontent{
+  background-color: purple;
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 15%;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-size: 128px;
+  padding-top: 230px;
+  color: purple;
+  text-shadow: 8px 1px 0px #000;
+  margin-top: 0px;
+
+
+
+}
+
+
+h4 {
+  font-size: 64px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+p{
+  text-align: center;
+  font-size: 32px;
+  margin: 0px 30px 0px 30px;
+
+}
+
+#footer {
+  height: 100px;
+  background-color: darkmagenta;
+}
+
+#footertext{
+  padding-top: 30px;
+  font-size: 16px;
+}
